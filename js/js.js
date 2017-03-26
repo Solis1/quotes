@@ -249,7 +249,7 @@ $(document).ready(function () {
 
             $("#share").click(function () {
 
-                    $("#share").attr("href", "http://www.facebook.com/sharer.php?u=http://www.lostiemposcambian.com/blog/facebook/compartir-urls-en-facebook/&t=Compartir urls en Face");
+                    $("#share").attr("href", "http://www.facebook.com/sharer.php?u=https://solis1.github.io/quotes/index.html");
 
                     });
 
